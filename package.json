@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "larads",
   "license": "ISC",
-  "description": "API Desenvolvida no programa Explorer da Rocketseat"
+  "description": "API Desenvolvida no programa Explorer da Rocketseat",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
